@@ -1,5 +1,5 @@
 {
-  "latest_version": "2.0",
-  "download_url": "https://github.com/adv5383661-dotcom/ose-chayil-updates/releases/download/v2.0/OseChayil-Setup-v2.0.exe",
-  "notes": "עדכון גלוי וברור: פס קבוע בראש המסך עם גרסה 2.0, הודעת פתיחה, עקיפת cache בבדיקת עדכונים, ותיקוני Word והלוגו."
+  "latest_version": "2.1",
+  "download_url": "https://github.com/adv5383661-dotcom/ose-chayil-updates/releases/download/v2.1/OseChayil-Setup-v2.1.exe",
+  "notes": "תיקון ייבוא Word בפועל: כפתור מ-Word פותח דיאלוג קבצים של התוכנה, קורא את הקובץ ישירות וטוען את המדורים למסך."
 }
