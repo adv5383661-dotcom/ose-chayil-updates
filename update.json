@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.8",
-  "download_url": "https://github.com/adv5383661-dotcom/ose-chayil-updates/releases/download/v1.8/OseChayil-Setup-v1.8.exe",
-  "notes": "החזרת לוגו התוכנה כאייקון היישום והמתקין, בנוסף לתיקוני ייבוא Word מהגרסה הקודמת."
+  "latest_version": "1.9",
+  "download_url": "https://github.com/adv5383661-dotcom/ose-chayil-updates/releases/download/v1.9/OseChayil-Setup-v1.9.exe",
+  "notes": "הצגת מספר גרסה גלוי ליד הלוגו, ביטול cache לקבצי המסך, וריענון אייקון התוכנה."
 }
