@@ -1,5 +1,5 @@
 {
-  "latest_version": "2.2",
-  "download_url": "https://github.com/adv5383661-dotcom/ose-chayil-updates/releases/download/v2.2/OseChayil-Setup-v2.2.exe",
-  "notes": "שיפור מנגנון העדכון: בדוק עדכונים מציג תמיד גרסה מותקנת מול זמינה, ומאפשר התקנה מחדש של הגרסה האחרונה."
+  "latest_version": "2.3",
+  "download_url": "https://github.com/adv5383661-dotcom/ose-chayil-updates/releases/download/v2.3/OseChayil-Setup-v2.3.exe",
+  "notes": "תיקון ייבוא Word בפועל: נוסף כפתור לייבוא קובץ ה-Word האחרון מתיקיית ההורדות, ובחירת הקובץ הרגילה יציבה יותר."
 }
