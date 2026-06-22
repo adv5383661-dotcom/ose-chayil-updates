@@ -1,5 +1,5 @@
 {
-  "latest_version": "2.1",
-  "download_url": "https://github.com/adv5383661-dotcom/ose-chayil-updates/releases/download/v2.1/OseChayil-Setup-v2.1.exe",
-  "notes": "תיקון ייבוא Word בפועל: כפתור מ-Word פותח דיאלוג קבצים של התוכנה, קורא את הקובץ ישירות וטוען את המדורים למסך."
+  "latest_version": "2.2",
+  "download_url": "https://github.com/adv5383661-dotcom/ose-chayil-updates/releases/download/v2.2/OseChayil-Setup-v2.2.exe",
+  "notes": "שיפור מנגנון העדכון: בדוק עדכונים מציג תמיד גרסה מותקנת מול זמינה, ומאפשר התקנה מחדש של הגרסה האחרונה."
 }
