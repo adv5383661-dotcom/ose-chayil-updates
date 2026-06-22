@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.4",
-  "download_url": "https://github.com/adv5383661-dotcom/ose-chayil-updates/releases/download/v1.4/OseChayil-Setup-v1.4.exe",
-  "notes": "גודל טקסט לכל מדור בנפרד + מונה עמודים שמראה אם זו כפולה של 4 (לכריכת חוברת)"
+  "latest_version": "1.5",
+  "download_url": "https://github.com/adv5383661-dotcom/ose-chayil-updates/releases/download/v1.5/OseChayil-Setup-v1.5.exe",
+  "notes": "תיקון העדכון: התוכנה נסגרת ונפתחת לבד בזמן העדכון (בלי הודעת שגיאה)"
 }
