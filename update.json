@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.5",
-  "download_url": "https://github.com/adv5383661-dotcom/ose-chayil-updates/releases/download/v1.5/OseChayil-Setup-v1.5.exe",
-  "notes": "תיקון העדכון: התוכנה נסגרת ונפתחת לבד בזמן העדכון (בלי הודעת שגיאה)"
+  "latest_version": "1.6",
+  "download_url": "https://github.com/adv5383661-dotcom/ose-chayil-updates/releases/download/v1.6/OseChayil-Setup-v1.6.exe",
+  "notes": "תיקון זיהוי מדורים: סיפור, דברי מוסר וחלקים מסודרים נכון; שיפור גלילה ומעברי עמודים."
 }
