@@ -1,5 +1,5 @@
 {
-  "latest_version": "2.3",
-  "download_url": "https://github.com/adv5383661-dotcom/ose-chayil-updates/releases/download/v2.3/OseChayil-Setup-v2.3.exe",
-  "notes": "תיקון ייבוא Word בפועל: נוסף כפתור לייבוא קובץ ה-Word האחרון מתיקיית ההורדות, ובחירת הקובץ הרגילה יציבה יותר."
+  "latest_version": "2.4",
+  "download_url": "https://github.com/adv5383661-dotcom/ose-chayil-updates/releases/download/v2.4/OseChayil-Setup-v2.4.exe",
+  "notes": "תיקון טעינת מדורי Word למסך: נפתרה שגיאת insertBefore שגרמה לכך שהייבוא זיהה מדורים אך לא הציג אותם בפועל. גם מנגנון העדכון הוקשח."
 }
