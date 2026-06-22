@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.9",
-  "download_url": "https://github.com/adv5383661-dotcom/ose-chayil-updates/releases/download/v1.9/OseChayil-Setup-v1.9.exe",
-  "notes": "הצגת מספר גרסה גלוי ליד הלוגו, ביטול cache לקבצי המסך, וריענון אייקון התוכנה."
+  "latest_version": "2.0",
+  "download_url": "https://github.com/adv5383661-dotcom/ose-chayil-updates/releases/download/v2.0/OseChayil-Setup-v2.0.exe",
+  "notes": "עדכון גלוי וברור: פס קבוע בראש המסך עם גרסה 2.0, הודעת פתיחה, עקיפת cache בבדיקת עדכונים, ותיקוני Word והלוגו."
 }
